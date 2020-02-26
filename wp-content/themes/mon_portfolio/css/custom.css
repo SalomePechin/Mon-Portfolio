@@ -1,0 +1,13 @@
+.content-area {
+	text-align: center;
+}
+
+.comment-form-comment {
+	max-width: 50%;
+	text-align: left;
+	margin: auto;
+}
+
+.item-header>h1{
+	margin: 5px 0px 15px 0px;
+}
