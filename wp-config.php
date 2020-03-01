@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'mon_portfolio' );
 
 /** MySQL database username */
-define( 'DB_USER', 'mon_portfolio' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'figaropoupette' );
+define( 'DB_PASSWORD', 'Figaropoupette&1' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
