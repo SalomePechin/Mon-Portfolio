@@ -3,12 +3,21 @@
             <div class="footer-distributed">
                 <div class="footer-left">
                     <p class="footer-links">
+<<<<<<< HEAD
                         <a href="http://www.salomepechin.works/">Home</a>
                         <a href="#">Blog</a>
                         <a href="#">Pricing</a>
                         <a href="http://www.salomepechin.works/a-propos/">About</a>
                         <a href="#">Faq</a>
                         <a href="http://www.salomepechin.works/contact/">Contact</a>
+=======
+                        <a href="http://localhost/wordpress/">Home</a>
+                        <a href="#">Blog</a>
+                        <a href="#">Pricing</a>
+                        <a href="#">About</a>
+                        <a href="#">Faq</a>
+                        <a href="#">Contact</a>
+>>>>>>> 7eb0f46a4620c685182b6663b903eeb0a8e53e84
                     </p>
                     <p class="footer-company-name">All Rights Reserved. &copy; 2020 <a href="#">Salomé Pechin</a> Design By : 
                     <a href="https://html.design/">html design</a></p>
@@ -19,6 +28,7 @@
 
     <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
 
+<<<<<<< HEAD
 	<!-- Lightbox plus jQuery -->
 	<script src="<?php echo get_template_directory_uri(); ?>/js/lightbox-plus-jquery.js"></script>
 	<script>
@@ -29,6 +39,8 @@
       'borderColor': 'black'
     });
 	</script>
+=======
+>>>>>>> 7eb0f46a4620c685182b6663b903eeb0a8e53e84
     <!-- ALL JS FILES -->
     <script src="<?php echo get_template_directory_uri(); ?>/js/all.js"></script>
     <!-- Camera Slider -->

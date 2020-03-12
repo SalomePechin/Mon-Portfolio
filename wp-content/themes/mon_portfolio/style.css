@@ -509,7 +509,11 @@ xclip
 }
 
 .section.db {
+<<<<<<< HEAD
     background-color: #f2f3f5;
+=======
+    background-color: #111111;
+>>>>>>> 7eb0f46a4620c685182b6663b903eeb0a8e53e84
 }
 
 .section.color1 {

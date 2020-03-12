@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	background-color: #f2f3f5;
 }
@@ -73,6 +74,15 @@ a.contact-link:hover {
 form#commentform.comment-form {
 	max-width: 50%;
 	text-align: center;
+=======
+.content-area {
+	text-align: center;
+}
+
+.comment-form-comment {
+	max-width: 50%;
+	text-align: left;
+>>>>>>> 7eb0f46a4620c685182b6663b903eeb0a8e53e84
 	margin: auto;
 }
 
