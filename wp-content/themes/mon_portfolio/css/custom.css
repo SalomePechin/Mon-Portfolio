@@ -1,0 +1,81 @@
+body {
+	background-color: #f2f3f5;
+}
+
+.entry-title {
+	text-align: center;
+}
+
+.custom-values {
+	max-width: 50%;
+	margin: auto;
+	padding: 10px;
+    background-color: #ffffff;
+}
+
+.content {
+	margin-top: 20px;
+	margin-bottom: 60px;
+    padding: 1px 10px 1px;
+    background-color: white;
+}
+
+.post-gallery {
+	text-align: center;
+}
+
+a.contact-link {
+	padding: 10px;
+	border: 1px solid #000000;
+	transition-duration: 0.5s;
+}
+
+a.contact-link:hover {
+	background-color: #000000;
+	color: #FFFFFF;
+	transition-duration: 0.5s;
+}
+	
+.post-info p {
+	text-align: justify;
+}
+
+.comment-body {
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+	border-bottom: 2px solid #d0d0d0;
+}
+
+.content-area {
+	margin: auto auto 50px auto;
+	max-width: 50%;
+	text-align: justify;
+	color: #585858;
+}
+
+.content > h2, h3, h4, div.wp-block-file {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.content > div.wp-block-file > a.wp-block-file__button {
+	padding: 10px;
+	border: 1px solid #585858;
+	transition-duration: 0.5s;
+}
+
+.content > div.wp-block-file > a.wp-block-file__button:hover {
+	color: #ffffff;
+	background-color: #585858;
+	transition-duration: 0.5s;
+}
+
+form#commentform.comment-form {
+	max-width: 50%;
+	text-align: center;
+	margin: auto;
+}
+
+.item-header>h1{
+	margin: 5px 0px 15px 0px;
+}
